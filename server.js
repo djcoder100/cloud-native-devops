@@ -23,3 +23,7 @@ if (require.main === module) {
     });
 }
 
+// Adding tests
+module.exports = {
+    convertToCaps: convertToCaps
+}
