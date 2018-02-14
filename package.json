@@ -1,0 +1,23 @@
+{
+  "name": "cloud-native-devops",
+  "version": "1.0.0",
+  "description": "Cloud Native devops in bluemix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djcoder100/cloud-native-devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djcoder100/cloud-native-devops/issues"
+  },
+  "homepage": "https://github.com/djcoder100/cloud-native-devops#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
